@@ -14,6 +14,20 @@
 	background: linear-gradient(#87CEEB, #E0F6FF);
 }
 
+.settings {
+	width: 80%;
+	margin: 0 auto;
+	margin-top: 10px;
+	padding: 10px;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.start {
+	font-family: 'Courier New', Courier, monospace;
+}
+
 .pipe {
 	position: absolute;
 	bottom: 0;
